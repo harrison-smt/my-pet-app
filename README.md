@@ -13,17 +13,17 @@ A **full-stack Tamagotchi-style web app** where users can create and care for a 
 
 ---
 
+## 📸 Screenshots
+
+<img width="1903" height="943" alt="Screenshot 2025-08-21 at 3 08 35 PM" src="https://github.com/user-attachments/assets/2b0fcc3b-2867-4871-b52f-0925a77914a4" />
+
+---
+
 ## 🛠️ Built With  
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 - **Backend & Database:** Firebase (Auth, Firestore, Hosting)  
 - **Other Tools:** Node.js, Git/GitHub  
-
----
-
-## 📸 Screenshots
-
-<img width="1903" height="943" alt="Screenshot 2025-08-21 at 3 08 35 PM" src="https://github.com/user-attachments/assets/2b0fcc3b-2867-4871-b52f-0925a77914a4" />
 
 ---
 
